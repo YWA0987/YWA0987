@@ -38,14 +38,14 @@ I'm interested in how systems work, how they fail, and how to make them more rel
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/YWA0987/datacom-cyber-security-operations-simulation">
-        <img src="assets/project-risk.svg" alt="Cyber risk and response — Forage simulation. Ransomware impact analysis, risk prioritization and security control recommendations. View repository." width="100%" />
+      <a href="https://github.com/YWA0987/Cybersecurity-Home-Lab">
+        <img src="assets/project-lab.svg" alt="Cybersecurity home lab — hands-on project. Windows and Kali virtual machines, static IPv4 networking and Windows Firewall troubleshooting. Phase 1 complete; SIEM planned. View repository." width="100%" />
       </a>
     </td>
   </tr>
 </table>
 
-**Also exploring:** [Python automation in a cybersecurity simulation](https://github.com/YWA0987/aig-cybersecurity-simulation) · [Computer vision for masjid parking availability — in progress](https://github.com/YWA0987/AI-powered-parking-detection)
+**More work:** [Cyber risk and ransomware response simulation](https://github.com/YWA0987/datacom-cyber-security-operations-simulation) · [Python automation in a cybersecurity simulation](https://github.com/YWA0987/aig-cybersecurity-simulation) · [Computer vision for masjid parking availability — in progress](https://github.com/YWA0987/AI-powered-parking-detection)
 
 <sub>Forage projects are educational job simulations, not employment with the named organizations. The cloud evaluation is an academic case study with modeled estimates.</sub>
 
@@ -54,7 +54,7 @@ I'm interested in how systems work, how they fail, and how to make them more rel
 | Area | Tools and concepts I'm practicing |
 | :--- | :--- |
 | **Security analysis** | Splunk · SPL · Incident analysis · Risk assessment · Security documentation |
-| **Infrastructure & cloud** | Networking fundamentals · Azure / AWS / Google Cloud evaluation · RTO / RPO · Migration planning |
+| **Infrastructure & cloud** | VirtualBox · Windows / Kali Linux · IPv4 networking · Windows Firewall · Azure / AWS / Google Cloud evaluation · RTO / RPO · Migration planning |
 | **Development** | Python · JavaScript · Node.js · SQLite · HTTP APIs · Input validation · Integration tests |
 | **Technical communication** | Case studies · Decision matrices · Troubleshooting notes · Business impact analysis |
 
