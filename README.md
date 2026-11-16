@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#projects">Projects!</a> &nbsp; / &nbsp;
   <a href="#toolkit--focus">Toolkit &amp; focus</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/yaqub-ahmed/">LinkedIn</a>
 </p>
@@ -16,7 +16,7 @@ I'm interested in how systems work, how they fail, and how to make them more rel
 
 **Seeking Summer 2027 internships** in IT support, infrastructure, cloud, and cybersecurity.
 
-## Selected work
+## Projects!
 
 <table>
   <tr>
