@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Wafi Ahmed | IT, Cloud and Cybersecurity</title><desc id="desc">Building practical skills. Documenting the process. A navy and cyan systems console design.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1425"/><stop offset="1" stop-color="#102f42"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#74dcee" stroke-opacity=".055"/></pattern><linearGradient id="line"><stop stop-color="#59e1e8"/><stop offset="1" stop-color="#7399ff"/></linearGradient></defs>
+<rect width="1200" height="420" rx="22" fill="url(#bg)"/><rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+<path d="M0 419H1200" stroke="url(#line)" stroke-width="4"/>
+<g font-family="Arial,Helvetica,sans-serif"><rect x="52" y="48" width="209" height="30" rx="15" fill="#173a49" stroke="#296374"/><circle cx="70" cy="63" r="4" fill="#66e2cf"/><text x="83" y="68" fill="#a5ecea" font-size="12" letter-spacing="2">LEARN / BUILD / SECURE</text>
+<text x="49" y="164" fill="#f1f7ff" font-size="72" font-weight="700" letter-spacing="-3">Wafi Ahmed<tspan fill="#63dce5">.</tspan></text>
+<text x="53" y="211" fill="#8be2ed" font-size="23" letter-spacing="2">IT / CLOUD / CYBERSECURITY</text>
+<text x="53" y="266" fill="#b5c5d9" font-size="21">Building practical skills.</text><text x="53" y="298" fill="#b5c5d9" font-size="21">Documenting the process.</text>
+<text x="53" y="370" fill="#8fa8c2" font-size="13" letter-spacing="2">MANAGEMENT INFORMATION SYSTEMS / UB '28</text></g>
+<rect x="740" y="68" width="408" height="285" rx="14" fill="#0a1423" stroke="#315068"/><path d="M740 109H1148" stroke="#284054"/>
+<circle cx="761" cy="89" r="4" fill="#ff8b8b"/><circle cx="777" cy="89" r="4" fill="#ffd48a"/><circle cx="793" cy="89" r="4" fill="#6adab8"/><text x="819" y="94" fill="#728ba5" font-size="12" font-family="monospace">wafi / workspace</text>
+<g font-family="monospace" font-size="15"><text x="765" y="146" fill="#64dce6">$ whoami</text><text x="765" y="173" fill="#e2edf9">Curious. Practical. Always learning.</text><text x="765" y="215" fill="#64dce6">$ focus --current</text><text x="765" y="244" fill="#a9bdd2">infrastructure + defensive security</text><text x="765" y="286" fill="#64dce6">$ next</text><text x="765" y="315" fill="#e2edf9">Build. Test. Understand.</text><rect x="1008" y="303" width="9" height="16" fill="#64dce6"/></g></svg>
