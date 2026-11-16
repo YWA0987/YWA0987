@@ -21,13 +21,13 @@ I'm interested in how systems work, how they fail, and how to make them more rel
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/YWA0987/cloud-vendor-evaluation-migration-strategy">
-        <img src="assets/project-cloud.svg" alt="Cloud strategy — academic case study. Azure, AWS and Google Cloud comparison; three-year TCO, risk assessment and migration planning. View repository." width="100%" />
+      <a href="https://github.com/YWA0987/Cybersecurity-Home-Lab">
+        <img src="assets/project-lab.svg" alt="Cybersecurity home lab — hands-on project. Windows and Kali virtual machines, static IPv4 networking and Windows Firewall troubleshooting. Ongoing; Phase 1 complete and SIEM planned. View repository." width="100%" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/YWA0987/AI-powered-parking-detection">
-        <img src="assets/project-parking.svg" alt="Masjid parking detection — ongoing computer vision project. YOLOv8 vehicle detection tested on static images; occupancy pipeline and display integration in development. View repository." width="100%" />
+      <a href="https://github.com/YWA0987/cloud-vendor-evaluation-migration-strategy">
+        <img src="assets/project-cloud.svg" alt="Cloud strategy — academic case study. Azure, AWS and Google Cloud comparison; three-year TCO, risk assessment and migration planning. View repository." width="100%" />
       </a>
     </td>
   </tr>
@@ -38,8 +38,8 @@ I'm interested in how systems work, how they fail, and how to make them more rel
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/YWA0987/Cybersecurity-Home-Lab">
-        <img src="assets/project-lab.svg" alt="Cybersecurity home lab — hands-on project. Windows and Kali virtual machines, static IPv4 networking and Windows Firewall troubleshooting. Ongoing; Phase 1 complete and SIEM planned. View repository." width="100%" />
+      <a href="https://github.com/YWA0987/AI-powered-parking-detection">
+        <img src="assets/project-parking.svg" alt="Masjid parking detection — ongoing computer vision project. YOLOv8 vehicle detection tested on static images; occupancy pipeline and display integration in development. View repository." width="100%" />
       </a>
     </td>
   </tr>
