@@ -22,7 +22,7 @@ I'm interested in how systems work, how they fail, and how to make them more rel
   <tr>
     <td width="50%">
       <a href="https://github.com/YWA0987/Cybersecurity-Home-Lab">
-        <img src="assets/project-lab.svg" alt="Cybersecurity home lab — hands-on project. Windows and Kali virtual machines, static IPv4 networking and Windows Firewall troubleshooting. Ongoing; Phase 1 complete and SIEM planned. View repository." width="100%" />
+        <img src="assets/project-lab.svg?v=ongoing" alt="Cybersecurity home lab — hands-on project. Windows and Kali virtual machines, static IPv4 networking and Windows Firewall troubleshooting. Ongoing; Phase 1 complete and SIEM planned. View repository." width="100%" />
       </a>
     </td>
     <td width="50%">
