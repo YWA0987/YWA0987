@@ -10,7 +10,7 @@
 
 ## Hey, I'm Wafi.
 
-I'm **Yaqub Wafi Ahmed**, a University at Buffalo student pursuing a **B.S. in Business Administration with a concentration in Management Information Systems**, with graduation planned for **May 2028**.
+I'm **Yaqub Wafi Ahmed**, a University at Buffalo student studying **Management Information Systems**, with graduation planned for **May 2028**.
 
 I'm interested in how systems work, how they fail, and how to make them more reliable and secure. This is where I share my projects, technical write-ups, and hands-on learning across **IT infrastructure, cloud, cybersecurity, and backend development**.
 
@@ -26,8 +26,8 @@ I'm interested in how systems work, how they fail, and how to make them more rel
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/YWA0987/Commonwealth-Bank-Introduction-to-Cybersecurity-Job-Simulation">
-        <img src="assets/project-splunk.svg" alt="Security analytics — Forage simulation. Splunk SPL, fraud analysis, dashboards, incident response and authorized web security labs. View repository." width="100%" />
+      <a href="https://github.com/YWA0987/AI-powered-parking-detection">
+        <img src="assets/project-parking.svg" alt="Masjid parking detection — ongoing computer vision project. YOLOv8 vehicle detection tested on static images; occupancy pipeline and display integration in development. View repository." width="100%" />
       </a>
     </td>
   </tr>
@@ -39,13 +39,13 @@ I'm interested in how systems work, how they fail, and how to make them more rel
     </td>
     <td width="50%">
       <a href="https://github.com/YWA0987/Cybersecurity-Home-Lab">
-        <img src="assets/project-lab.svg" alt="Cybersecurity home lab — hands-on project. Windows and Kali virtual machines, static IPv4 networking and Windows Firewall troubleshooting. Phase 1 complete; SIEM planned. View repository." width="100%" />
+        <img src="assets/project-lab.svg" alt="Cybersecurity home lab — hands-on project. Windows and Kali virtual machines, static IPv4 networking and Windows Firewall troubleshooting. Ongoing; Phase 1 complete and SIEM planned. View repository." width="100%" />
       </a>
     </td>
   </tr>
 </table>
 
-**More work:** [Cyber risk and ransomware response simulation](https://github.com/YWA0987/datacom-cyber-security-operations-simulation) · [Python automation in a cybersecurity simulation](https://github.com/YWA0987/aig-cybersecurity-simulation) · [Computer vision for masjid parking availability — in progress](https://github.com/YWA0987/AI-powered-parking-detection)
+**Cybersecurity simulations:** [Splunk analytics and web security](https://github.com/YWA0987/Commonwealth-Bank-Introduction-to-Cybersecurity-Job-Simulation) · [Cyber risk and ransomware response simulation](https://github.com/YWA0987/datacom-cyber-security-operations-simulation) · [Python automation in a cybersecurity simulation](https://github.com/YWA0987/aig-cybersecurity-simulation)
 
 <sub>Forage projects are educational job simulations, not employment with the named organizations. The cloud evaluation is an academic case study with modeled estimates.</sub>
 
