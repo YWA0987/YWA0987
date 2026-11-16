@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Wafi Ahmed — IT, cloud and cybersecurity. Building practical skills. Documenting the process." width="100%" />
+  <img src="assets/profile-hero-v2.svg" alt="Wafi Ahmed — IT, cloud and cybersecurity. Building practical skills. Documenting the process." width="100%" />
 </p>
 
 <p align="center">
